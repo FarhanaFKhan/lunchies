@@ -9,7 +9,7 @@ export default function Navbar() {
         <Link to="/">Home</Link>
         <Link to="/about">Our Story</Link>
         <Link to="/pricing">Pricing</Link>
-        <Link to="/">Testimonials</Link>
+        <Link to="/testimonials">Testimonials</Link>
       </div>
     </nav>
   )
